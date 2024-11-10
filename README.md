@@ -1,5 +1,3 @@
-Hi this is just a note on what this project is.
-
 I followed the following youtube tutorial:
 https://www.youtube.com/watch?v=D0MPYZYe40E&t=317s
 
